@@ -5,3 +5,4 @@ A awesome list of start-pages for you favourite browser
 ![maintained_yes_or_no](https://img.shields.io/badge/maintained-yes-green?style=for-the-badge)
 ![forks](https://img.shields.io/github/forks/agneay/start-pages?style=for-the-badge)
 ![stars](https://img.shields.io/github/stars/agneay/start-pages?style=for-the-badge)
+![license](https://img.shields.io/github/license/agneay/start-pages?style=for-the-badge)
