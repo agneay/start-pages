@@ -6,3 +6,4 @@ A awesome list of start-pages for you favourite browser
 ![forks](https://img.shields.io/github/forks/agneay/start-pages?style=for-the-badge)
 ![stars](https://img.shields.io/github/stars/agneay/start-pages?style=for-the-badge)
 ![license](https://img.shields.io/github/license/agneay/start-pages?style=for-the-badge)
+![issues](https://img.shields.io/github/issues/agneay/start-pages?style=for-the-badge)
